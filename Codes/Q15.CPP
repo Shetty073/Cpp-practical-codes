@@ -1,5 +1,3 @@
-//"In exam we can take one integer value instead of two" - Pranali Miss
-
 #include <iostream.h>
 #include <conio.h>
 
